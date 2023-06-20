@@ -1,1 +1,1 @@
-Practice Reacte Application
+Practice React Application
