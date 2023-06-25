@@ -21,9 +21,9 @@ We suggest that you begin by typing:
   cd animal-facts
   npm start
 
-Instructions:
 
-Do the following:
+
+Instructions:
 
 Create a React application (with Typescript). 
 
