@@ -1,3 +1,8 @@
 export default function Home(){
-    return <h1>Home</h1>
+    return (
+    <div>
+        <h1>Welcome to Animal Facts</h1>
+        <h2>Click on the Nav bar to see random animal fact or pictures.</h2>
+    </div>
+    )
 }

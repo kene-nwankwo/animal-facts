@@ -45,7 +45,7 @@ body {
     background-color: #555;
 }
 
-.nav li.hover {
+.nav li:hover {
     background-color: #777;
 }
 
