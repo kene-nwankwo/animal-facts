@@ -29,7 +29,7 @@ body {
 }
 
 .site-title {
-    font-size: 2rem;
+    font-size: 1.4rem;
 }
 
 .nav a {
@@ -41,12 +41,16 @@ body {
     padding: .25rem;
 }
 
-.nav li.active {
-    background-color: #555;
+.nav Button {
+    color: white;
 }
 
-.nav li:hover {
-    background-color: #777;
+.nav Button.active {
+    background-color: #901919;
+}
+
+.nav Button:hover {
+    background-color: #297332;
 }
 
  

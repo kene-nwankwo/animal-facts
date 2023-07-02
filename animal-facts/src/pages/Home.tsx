@@ -1,3 +1,9 @@
+
+function getFact(){
+    fetch("https://meowfacts.herokuapp.com/")
+    .then(res => console.log(res))
+}
+
 export default function Home(){
     return (
     <div>
