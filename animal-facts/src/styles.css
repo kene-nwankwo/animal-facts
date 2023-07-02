@@ -6,6 +6,12 @@ body {
     margin: 0;
 }
 
+.animal_image {
+    width: 35%;
+    height: 35%;
+    border: .5rem solid #757575;
+}
+
 .container {
     margin: 1rem;
     text-align: center
@@ -46,15 +52,10 @@ body {
 }
 
 .nav Button.active {
-    background-color: #901919;
+    background-color: #896666;
 }
 
 .nav Button:hover {
     background-color: #297332;
 }
 
-.animal_image {
-    width: 50%;
-    height: 50%;
-    border: .5rem solid #757575;
-}
