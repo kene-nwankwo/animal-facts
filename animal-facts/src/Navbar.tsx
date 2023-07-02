@@ -12,7 +12,7 @@ export default function Navbar() {
             <CustomLink to="/DogFact">Dog Fact</CustomLink>
             <CustomLink to="/CatPicture">Cat Picture</CustomLink>
             <CustomLink to="/DogPicture">Dog Picture</CustomLink>
-            <CustomLink to="/ZooAnimalFactPicture">Zoo Animal Fact and Picture</CustomLink>
+            <CustomLink to="/FaceName">Face and Name</CustomLink>
         </ul>
     </nav>
 }

@@ -53,4 +53,8 @@ body {
     background-color: #297332;
 }
 
- 
+.animal_image {
+    width: 50%;
+    height: 50%;
+    border: .5rem solid #757575;
+}

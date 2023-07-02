@@ -6,7 +6,7 @@ import CatFact from './pages/CatFact';
 import DogFact from "./pages/DogFact";
 import CatPicture from "./pages/CatPicture";
 import DogPicture from "./pages/DogPicture";
-import ZooAnimalFactPicture from "./pages/ZooAnimalFactPicture";
+import FaceName from "./pages/FaceName";
 import { Button, ButtonBase, ButtonGroup, IconButton, ListItemButton } from "@mui/material"
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
           <Route path="/DogFact" element={<DogFact />} />
           <Route path="/CatPicture" element={<CatPicture />} />
           <Route path="/DogPicture" element={<DogPicture />} />
-          <Route path="/ZooAnimalFactPicture" element={<ZooAnimalFactPicture />} />
+          <Route path="/FaceName" element={<FaceName />} />
         </Routes>
         </div>
     </>
